@@ -2,7 +2,7 @@
 
 **Hands-on software engineer · Systems thinker · Lifelong learner**
 
-I am a full-stack developer with **20+ years of hands-on programming and web/software development experience, including 17+ years of professional software engineering**. My interest in building websites began during the early web era, around 2005, when I started creating web pages using Yahoo! GeoCities (approximate start year, still being verified). I focus on building useful applications, solving real-world problems, and turning ideas into working products.
+I am a full-stack developer with **20+ years of hands-on programming and web/software development experience, including 17+ years of professional software engineering**. My interest in building websites began during the early web era, around 2004–2005, when I started creating web pages using Yahoo! GeoCities (approximate start year, still being verified). I focus on building useful applications, solving real-world problems, and turning ideas into working products.
 
 My experience includes **JavaScript, Node.js, Python, MongoDB, web applications, backend services, and AI-assisted development**. I care about maintainable architecture, thoughtful implementation, clear communication, and continuous learning.
 
@@ -23,7 +23,7 @@ For AI coding assistants collaborating with me, see [AGENTS.md](./AGENTS.md).
 
 ## 中文简介
 
-你好，我是 **Yulin He**，一名拥有 **20 年以上实际编程及网页／软件开发经验，其中包括 17 年以上职业软件工程经验**的全栈软件工程师。学生时代（约 2005 年，具体起始年份仍待核实），我就开始使用 Yahoo! GeoCities（雅虎地球村）编写并发布网页。
+你好，我是 **Yulin He**，一名拥有 **20 年以上实际编程及网页／软件开发经验，其中包括 17 年以上职业软件工程经验**的全栈软件工程师。学生时代（约 2004–2005 年，具体起始年份仍待核实），我就开始使用 Yahoo! GeoCities（雅虎地球村）编写并发布网页。
 
 我长期专注于真实产品的设计、开发与交付，熟悉 **JavaScript、Node.js、Python、MongoDB** 等技术，也对 AI 与软件工程的结合充满兴趣。
 
