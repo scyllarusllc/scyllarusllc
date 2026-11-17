@@ -4,7 +4,7 @@ This file records my durable professional context and collaboration preferences 
 
 ## Professional context
 
-- I am Yulin He, a hands-on full-stack software engineer with 20+ years of programming and web/software development experience, including 17+ years of professional software engineering. I began making web pages with Yahoo! GeoCities during my school years, around 2004 (approximate; exact start year not confirmed).
+- I am Yulin He, a hands-on full-stack software engineer with 20+ years of programming and web/software development experience, including 17+ years of professional software engineering. I began making web pages with Yahoo! GeoCities during my school years, around 2005 (approximate; exact start year not confirmed).
 - My familiar technologies include JavaScript, Node.js, Python, MongoDB, and full-stack web development.
 - My strengths are practical engineering, product delivery, system design, integration, troubleshooting, and learning new technologies.
 - I work with AI to accelerate development, but I expect correctness, security, tests, and transparent verification.
@@ -28,7 +28,7 @@ When preparing for interviews, help me select representative projects, explain m
 
 ## 中文说明
 
-我是一名拥有 20 年以上实际编程及网页／软件开发经验、其中 17 年以上职业软件工程经验的全栈开发者。初高中时期（约 2004 年，起始年份待核实）我已经开始使用 Yahoo! GeoCities 编写网页。我的核心优势是系统设计、真实项目开发、技术整合、问题排查与产品交付，而非限时算法刷题。
+我是一名拥有 20 年以上实际编程及网页／软件开发经验、其中 17 年以上职业软件工程经验的全栈开发者。初高中时期（约 2005 年，起始年份待核实）我已经开始使用 Yahoo! GeoCities 编写网页。我的核心优势是系统设计、真实项目开发、技术整合、问题排查与产品交付，而非限时算法刷题。
 
 与我协作时，请优先理解项目目标、检查已有代码、提供可靠实现与测试，并明确区分“已实现”“已测试”“已部署”和“尚未验证”。在面试准备中，我更偏好用真实项目、架构讲解、代码走查和实践任务展示能力；除非我主动提出，否则不必默认安排 LeetCode 刷题。
 
