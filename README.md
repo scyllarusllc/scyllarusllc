@@ -6,6 +6,31 @@ I am a full-stack developer with **20+ years of hands-on programming and web/sof
 
 My experience includes **JavaScript, Node.js, Python, MongoDB, web applications, backend services, and AI-assisted development**. I care about maintainable architecture, thoughtful implementation, clear communication, and continuous learning.
 
+## Technical Interests / 技术兴趣
+
+My primary focus is **AI Agents & Workflow Automation**: building systems that can **understand and plan tasks, take authorized actions with tools, and verify real-world outcomes**. The following is a **personal-interest snapshot**, not a skill rating or measured GitHub statistic.
+
+**当前主方向：AI 智能代理与工作自动化。** 我尤其关注让 AI 同时具备**任务理解与规划**、**工具和代码执行**、以及**结果验证**的能力。下面展示的是个人兴趣倾向，**不是技能评分或精确 GitHub 数据统计**。
+
+| Technical interest / 技术兴趣 | Focus / 关注程度 |
+|---|---|
+| **AI Agents & Workflow Automation / AI 智能代理与工作自动化** | `███████████████████░` Primary / 主线 |
+| Enterprise Software & Business Workflows / 企业软件与业务流程 | `██████████████████░░` |
+| Developer Tools & Productivity / 开发工具与效率平台 | `█████████████████░░░` |
+| Cross-platform App Development / 跨平台应用 | `████████████████░░░░` |
+| Computer Vision & Generative AI / 计算机视觉与生成式 AI | `██████████████░░░░░░` |
+| Hardware, IoT & Systems / 硬件、物联网与系统 | `███████████░░░░░░░░░` |
+
+**Representative projects / 代表项目：** [AgentSteers](https://github.com/scyllarusllc/agentsteers) · [Inboxtend](https://github.com/scyllarusllc/inboxtend) · [OrbitMinder](https://github.com/scyllarusllc/orbitminder) · [EZ Accounting](https://github.com/scyllarusllc/ez-accounting-for-erpnext)
+
+> **English:** I build practical systems that turn complex workflows into reliable automation. I am especially interested in how AI agents reason, act safely, and verify their results.
+>
+> **中文：** 我希望构建真正有用的智能系统，让 AI 能规划任务、在授权范围内执行操作，并可靠地验证工作成果。
+
+[Full bilingual technical interests analysis / 查看完整中英文技术兴趣分析](https://github.com/scyllarusllc/agentsteers/blob/main/docs/technical-interests.md)
+
+---
+
 ### How I work
 
 - **Build and deliver:** I enjoy taking products from an idea to a functioning system.
